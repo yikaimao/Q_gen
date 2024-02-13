@@ -10,6 +10,8 @@ Under construction...
 
 ## Algorithms
 
+[algorithms overview](images/algorithms.png)
+
 **Quantum Query Algorithms:**  
  - Deutsch-Jozsa Algorithm  
  - Bernstein-Vazirani Algorithm  
