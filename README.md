@@ -1,11 +1,39 @@
+
 # Random Quantum Circuit Generator
 
 Under construction...
 
     Dependencies:
-	    numpy
-	    qiskit
-	    networkx
+        numpy
+        qiskit
+        networkx
+
+## Available Algorithms
+
+**Quantum Query Algorithms:**
+Deutsch-Jozsa Algorithm 
+Bernstein-Vazirani Algorithm 
+Simon's Algorithm
+
+**Quantum Search Algorithms:**
+Grover's Algorithm
+Quantum Counting Algorithm
+Quantum Walk Algorithm
+
+**Quantum Fourier Transform Algorithms:**
+Quantum Fourier Transform
+Quantum Phase Estimation
+Shor's Algorithm
+
+**Quantum Communication Algorithms:**
+Quantum Key Distribution
+Quantum Teleportation
+Superdense Coding
+
+**Variational Quantum Algorithms:**
+Quantum Approximate Optimization Algorithm
+Variational Quantum Eigensolver
+Variational Quantum Classifier
 
 ## Acknowledgements
 
