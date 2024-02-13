@@ -10,7 +10,7 @@ Under construction...
 
 ## Algorithms
 
-[algorithms overview](images/algorithms.png)
+![algorithms overview](images/algorithms.png)
 
 **Quantum Query Algorithms:**  
  - Deutsch-Jozsa Algorithm  
