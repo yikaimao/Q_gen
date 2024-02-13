@@ -8,32 +8,32 @@ Under construction...
         qiskit
         networkx
 
-## Available Algorithms
+## Algorithms
 
 **Quantum Query Algorithms:**  
-Deutsch-Jozsa Algorithm  
-Bernstein-Vazirani Algorithm  
-Simon's Algorithm  
+ - Deutsch-Jozsa Algorithm  
+ - Bernstein-Vazirani Algorithm  
+ - Simon's Algorithm  
 
 **Quantum Search Algorithms:**  
-Grover's Algorithm  
-Quantum Counting Algorithm  
-Quantum Walk Algorithm  
+ - Grover's Algorithm  
+ - Quantum Counting Algorithm  
+ - Quantum Walk Algorithm  
 
 **Quantum Fourier Transform Algorithms:**  
-Quantum Fourier Transform  
-Quantum Phase Estimation  
-Shor's Algorithm  
+ - Quantum Fourier Transform  
+ - Quantum Phase Estimation  
+ - Shor's Algorithm  
 
 **Quantum Communication Algorithms:**  
-Quantum Key Distribution  
-Quantum Teleportation  
-Superdense Coding  
+ - Quantum Key Distribution  
+ - Quantum Teleportation  
+ - Superdense Coding  
 
 **Variational Quantum Algorithms:**  
-Quantum Approximate Optimization Algorithm  
-Variational Quantum Eigensolver  
-Variational Quantum Classifier  
+ - Quantum Approximate Optimization Algorithm  
+ - Variational Quantum Eigensolver  
+ - Variational Quantum Classifier  
 
 ## Acknowledgements
 
