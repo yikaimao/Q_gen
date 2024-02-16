@@ -5,7 +5,8 @@ Under construction...
 
     Dependencies:
         numpy
-        qiskit
+        qiskit 0.46.0
+        qiskit-aer-gpu 0.13.3
         networkx
 
 ## Algorithms
