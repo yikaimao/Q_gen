@@ -1,7 +1,8 @@
 
-# Random Quantum Circuit Generator
+# Q-gen Quantum Circuit Generator
 
-Under construction...
+Please see our preprint at:
+xxx
 
     Dependencies:
         numpy
@@ -9,9 +10,9 @@ Under construction...
         qiskit-aer-gpu 0.13.3
         networkx
 
-## Algorithms
+## Available Algorithms
 
-![algorithms overview](images/algorithms.png)
+![algorithms overview](images/alg_system.png)
 
 **Quantum Query Algorithms:**  
  - Deutsch-Jozsa Algorithm  
@@ -40,11 +41,13 @@ Under construction...
 
 ## Acknowledgements
 
-Most of the work is based on the (now deprecated) [Qiskit Textbook](https://github.com/Qiskit/textbook).
+We thank the community for sharing many algorithm implementations and learning resources:
 
-The implementation of generalized Shor's Algorithm is based on [ShorAlgQiskit](https://github.com/ttlion/ShorAlgQiskit) by Rui Maia and Tiago Leão.
-
-This project is also inspired by code from [Qiskit](https://github.com/Qiskit/qiskit), [Qiskit Algorithms](https://github.com/qiskit-community/qiskit-algorithms), and [Qiskit Machine Learning](https://github.com/qiskit-community/qiskit-machine-learning).
+ - [Qiskit](https://github.com/Qiskit/qiskit)
+ - [Qiskit Textbook](https://github.com/Qiskit/textbook) (deprecated)
+ - [Qiskit Algorithms](https://github.com/qiskit-community/qiskit-algorithms)
+ - [Qiskit Machine Learning](https://github.com/qiskit-community/qiskit-machine-learning)
+ - [ShorAlgQiskit](https://github.com/ttlion/ShorAlgQiskit) by Rui Maia and Tiago Leão
 
 ## License
 
