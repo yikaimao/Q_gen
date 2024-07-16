@@ -2,13 +2,8 @@
 # Q-gen Quantum Circuit Generator
 
 Please see our preprint at:
-xxx
 
-    Dependencies:
-        numpy
-        qiskit 0.46.0
-        qiskit-aer-gpu 0.13.3
-        networkx
+xxx
 
 ## Available Algorithms
 
@@ -37,7 +32,15 @@ xxx
 **Variational Quantum Algorithms:**  
  - Quantum Approximate Optimization Algorithm  
  - Variational Quantum Eigensolver  
- - Variational Quantum Classifier  
+ - Variational Quantum Classifier
+
+```
+Dependencies:
+    numpy
+    qiskit 0.46.0
+    qiskit-aer-gpu 0.13.3
+    networkx
+```
 
 ## Acknowledgements
 
