@@ -1,7 +1,9 @@
 
 # Q-gen Quantum Circuit Generator
 
-Please see our preprint at: test
+Please see our preprint at:  
+
+xxx
 
 Also see our [Wiki](https://github.com/yikaimao/Q_gen/wiki) page for an overview of the simple circuits inside the Q-gen quantum circuit dataset.
 
