@@ -14,17 +14,17 @@ Also see our [Wiki](https://github.com/yikaimao/Q_gen/wiki) page for an overview
 **Quantum Query Algorithms:**  
  - Deutsch-Jozsa Algorithm  
  - Bernstein-Vazirani Algorithm  
- - Simon's Algorithm  
+ - Simon's Algorithm
+
+**Quantum Fourier Transform Algorithms:**  
+ - Quantum Fourier Transform  
+ - Quantum Phase Estimation  
+ - Shor's Algorithm
 
 **Quantum Search Algorithms:**  
  - Grover's Algorithm  
  - Quantum Counting Algorithm  
  - Quantum Walk Algorithm  
-
-**Quantum Fourier Transform Algorithms:**  
- - Quantum Fourier Transform  
- - Quantum Phase Estimation  
- - Shor's Algorithm  
 
 **Quantum Communication Algorithms:**  
  - Quantum Key Distribution  
