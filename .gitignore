@@ -39,4 +39,4 @@ Thumbs.db
 # for this project #
 ####################
 .ipynb_checkpoints
-README.md
+*.md

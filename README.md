@@ -5,8 +5,7 @@ Please see our preprint at:
 
 xxx
 
-We have a GitHub Wiki page for an overview of the simple circuits inside the Q-gen quantum circuit dataset.  
-[Wiki](https://github.com/yikaimao/Q_gen/wiki)
+Also see our [Wiki](https://github.com/yikaimao/Q_gen/wiki) page for an overview of the simple circuits inside the Q-gen quantum circuit dataset.
 
 ## Available Algorithms
 
