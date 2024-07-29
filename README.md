@@ -3,7 +3,7 @@
 
 Please see our preprint at:  
 
-arXiv link here
+[Q-gen: A Parameterized Quantum Circuit Generator](https://arxiv.org/abs/2407.18697)
 
 Also see our [Wiki](https://github.com/yikaimao/Q_gen/wiki) page for an overview of the simple circuits inside the Q-gen quantum circuit dataset.
 
