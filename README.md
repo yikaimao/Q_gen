@@ -1,11 +1,13 @@
 
 # Q-gen Quantum Circuit Generator
 
-Please see our preprint at:  
+Please see our preprint on arXiv:  
 
 [Q-gen: A Parameterized Quantum Circuit Generator](https://arxiv.org/abs/2407.18697)
 
-Also see our [Wiki](https://github.com/yikaimao/Q_gen/wiki) page for an overview of the simple circuits inside the Q-gen quantum circuit dataset.
+Our [Wiki](https://github.com/yikaimao/Q_gen/wiki) page offers an overview of the simple circuits inside the Q-gen quantum circuit dataset. 
+
+The full dataset is available at [Q-gen Quantum Circuit Dataset](https://www.kaggle.com/datasets/ykmaoykmao/q-gen-quantum-circuit-dataset).
 
 ## Available Algorithms
 
