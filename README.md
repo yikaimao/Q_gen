@@ -5,6 +5,8 @@ Please see our preprint on arXiv:
 
 [Q-gen: A Parameterized Quantum Circuit Generator](https://arxiv.org/abs/2407.18697)
 
+Check ```tutorial_generator.ipynb``` for generation examples.
+
 Our [Wiki](https://github.com/yikaimao/Q_gen/wiki) page offers an overview of the simple circuits inside the Q-gen quantum circuit dataset: 
 
  - Circuit visualization with histogram/counts: [Circuit with histogram/counts](https://github.com/yikaimao/Q_gen/wiki#circuit-with-histogramcounts)
