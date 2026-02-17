@@ -38,5 +38,6 @@ Thumbs.db
 
 # for this project #
 ####################
+__pycache__
 .ipynb_checkpoints
 *.md
