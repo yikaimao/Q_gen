@@ -44,10 +44,10 @@ The full dataset is available at [Q-gen Quantum Circuit Dataset](https://www.kag
 
 ```
 Dependencies:
-    networkx==3.6.1
-    numpy==2.4.2
-    qiskit==2.3.0
-    qiskit_aer==0.17.2
+    numpy
+    qiskit 0.46.0
+    qiskit-aer-gpu 0.13.3
+    networkx
 ```
 
 ## Acknowledgements
