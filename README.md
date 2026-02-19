@@ -5,7 +5,7 @@ Please see our preprint on arXiv:
 
 [Q-gen: A Parameterized Quantum Circuit Generator](https://arxiv.org/abs/2407.18697)
 
-Check ```tutorial_generator.ipynb``` for generation examples.
+Check [```tutorial_generator.ipynb```](https://github.com/yikaimao/Q_gen/blob/main/tutorial_generator.ipynb) for generation examples.
 
 Our [Wiki](https://github.com/yikaimao/Q_gen/wiki) page offers an overview of the simple circuits inside the Q-gen quantum circuit dataset: 
 
@@ -46,7 +46,7 @@ The full dataset is available at [Q-gen Quantum Circuit Dataset](https://www.kag
 
 ```
 Dependencies:
-    networkx==3.6.1
+    networkx==3.6.1 (only needed for qaoa.py)
     numpy==2.4.2
     qiskit==2.3.0
     qiskit_aer==0.17.2
