@@ -24,7 +24,7 @@ The complete Q-gen algorithm system illustration:
 The algorithm's complexity rating is designed to be compared vertically within its category instead of horizontally across different algorithm categories. To help form the connection between different algorithms, we include some generalized quantum computing problems, indicated by the dashed circles. 
 
 The connections are gathered from various textbooks, lecture notes, and scientific papers:
- - M. A. Nielsen and I. L. Chuang, Quantum Computation and Quantum Information: 10th Anniversary Edition
+ - M. A. Nielsen and I. L. Chuang, [Quantum Computation and Quantum Information: 10th Anniversary Edition](https://doi.org/10.1017/CBO9780511976667)
  - S. Aaronson, [Introduction to quantum information science lecture notes](https://www.scottaaronson.com/qclec.pdf)
  - W. van Dam, S. Hallgren, and L. Ip, [Quantum algorithms for some hidden shift problems](https://arxiv.org/abs/quant-ph/0211140)
  - A. Peruzzo, J. McClean, P. Shadbolt, M.-H. Yung, X.-Q. Zhou, P. J. Love, A. Aspuru-Guzik, and J. L. O’Brien, [A variational eigenvalue solver on a photonic quantum processor](http://dx.doi.org/10.1038/ncomms5213)
