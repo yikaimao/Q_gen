@@ -28,7 +28,7 @@ def random_bin_str(width, zero=False):
 def bernstein_vazirani(n, options=[]):
     # n = number of qubits of the oracle
     # options = [oracle, print_oracle]
-    # oracle = 'random'
+    # oracle = 'random' or binary string
     # print_oracle = 'print', 'silent'
     
     oracle = options[0]
@@ -51,10 +51,10 @@ def bernstein_vazirani(n, options=[]):
     
     bernstein_vazirani_oracle = QuantumCircuit(n+1)
     
-    # if oracle == ???:
-    #     # define new oracle here
-    
-    s_str = random_bin_str(n, False)
+    if oracle == 'random':
+        s_str = random_bin_str(n, False)
+    else:
+        s_str = oracle[::-1]
     
     if print_oracle == 'print':
         # reverse s to fit qiskit's qubit ordering
