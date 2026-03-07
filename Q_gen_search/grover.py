@@ -47,11 +47,13 @@ def grover_diffuser(n):
 
 def grover(n, options=[]):
     # n = number of qubits of the grover oracle, n must >= 2
-    # options = [print_solutions]
+    # options = [num_solutions, print_solutions]
+    # num_solutions = 'optimal', 'random', or int number of solutions, if n = 2 then this is forced to be 1
     # print_solutions = 'print', 'silent', show solutions and optimal iteration
-    # optimal iteration will always be 1 here (due to nsolutions = 2**(n-2))
-    
-    print_solutions = options[0]
+    # optimal iteration will always be 1 if num_solutions = 2**(n-2))
+
+    nsolutions = options[0]
+    print_solutions = options[1]
     
     grover_circuit = QuantumCircuit(n)
     
@@ -64,9 +66,12 @@ def grover(n, options=[]):
     
     if n < 3:
         nsolutions = 1
-    else:
-        # nsolutions = np.random.randint(1, np.ceil((2**n)/4)) # iteration will be >=1
+    elif nsolutions == 'optimal':
         nsolutions = 2**(n-2)
+    elif nsolutions == 'random':
+        nsolutions = np.random.randint(1, np.ceil((2**n)/4)) # iteration will be >=1
+    else:
+        pass
     
     diagonal_elements = [-1]*nsolutions + [1]*((2**n) - nsolutions)
     np.random.shuffle(diagonal_elements)
