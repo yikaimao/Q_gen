@@ -55,8 +55,8 @@ The connections are gathered from various textbooks, lecture notes, and scientif
 
 ```
     networkx==3.6.1 (only needed for qaoa.py)
-    numpy==2.4.2
-    qiskit==2.3.0
+    numpy==2.4.3
+    qiskit==2.3.1
     qiskit_aer==0.17.2
 ```
 
